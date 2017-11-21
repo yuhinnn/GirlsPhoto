@@ -29,7 +29,7 @@
 </div>
 
  <a href="https://ws.formzu.net/fgen/S81114783/"> <img class="btn1"src="oubo.png" alt=""></a>
- <a href=""><img class="btn2"src="question.png" alt=""></a>
+ <a href="https://gpscastingpage.herokuapp.com/question.php"><img class="btn2"src="question.png" alt=""></a>
  <a href="mailto:omlts.abekobe@gmail.com"><img class="btn3"src="toiawase.png" alt=""></a>
  <a href=""> <img class="pochi"src="pochi.png" alt=""></a>
 
