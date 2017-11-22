@@ -19,13 +19,16 @@
   <div class="btn-top3">  <p>撮影時はモデル１人に対して１人スタ<br>ッフが付きます！</p> </div>
 </div>
 
-  <div class="btn-top4">  <p>撮影会モデル未経験の方でも全く問題<br>ございません！モデルをやってく中で<br>楽しくポージングや表情を身につけてい<br>きましょう！</p> </div>
+  <div class="btn-top4">  <p>撮影会モデル未経験の方でも全く問題<br>ございません！モデルをやってく中で<br>楽しくポージングや表情を身につけて<br>いきましょう！</p> </div>
 </div>
 
   <div class="btn-top5">  <p>※募集フォームより応募後、面接をしていただきます。人数が確定し次第募集を締め切らせていただくこともございます。</p> </div>
 </div>
 
   <div class="btn-top6">  <p>2017オモロタスProduction All Rights Reserved </p> </div>
+</div>
+
+  <div class="btn-topimage">  <p>※画像はイメージです。</p> </div>
 </div>
 
  <a href="https://ws.formzu.net/fgen/S81114783/"> <img class="btn1"src="oubo.png" alt=""></a>
