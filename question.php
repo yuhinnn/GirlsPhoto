@@ -35,7 +35,7 @@
 </div>
 
  <a href="https://ws.formzu.net/fgen/S81114783/"> <img class="btn1_q"src="oubo.png" alt=""></a>
- <a href=""><img class="top"src="top.png" alt=""></a>
+ <a href="https://gpscastingpage.herokuapp.com"><img class="top"src="top.png" alt=""></a>
   <div class="btn-top6_q">  <p>2017オモロタスProduction All Rights Reserved </p> </div>
 </div>
 
