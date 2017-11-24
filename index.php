@@ -31,7 +31,7 @@
   <div class="btn-topimage">  <p>※画像はイメージです。</p> </div>
 </div>
 
- <a href="https://ws.formzu.net/fgen/S81114783/"> <img class="btn1"src="oubo.png" alt=""></a>
+ <a href="https://creativesurvey.com/ng/answers/51b4539a7ffd908fbd54352b8605e2/"> <img class="btn1"src="oubo.png" alt=""></a>
  <a href="https://gpscastingpage.herokuapp.com/question.php"><img class="btn2"src="question.png" alt=""></a>
  <a href="mailto:omlts.abekobe@gmail.com"><img class="btn3"src="toiawase.png" alt=""></a>
  <a href=""> <img class="pochi"src="pochi.png" alt=""></a>
